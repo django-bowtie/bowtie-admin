@@ -1,1 +1,1 @@
-# bowtie-admin
+# Django-Bowtie Admin
